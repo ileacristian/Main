@@ -1,0 +1,8 @@
+[submodule "Carthage/Checkouts/Cartography"]
+	url = https://github.com/robb/Cartography.git
+[submodule "Carthage/Checkouts/Curry"]
+	path = Carthage/Checkouts/Curry
+	url = https://github.com/thoughtbot/Curry.git
+[submodule "Carthage/Checkouts/FooBar"]
+	path = Carthage/Checkouts/FooBar
+	url = https://github.com/ileacristian/FooBar.git
