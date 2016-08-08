@@ -1,5 +1,7 @@
 [submodule "Carthage/Checkouts/Cartography"]
+	path = Carthage/Checkouts/Cartography
 	url = https://github.com/robb/Cartography.git
+	ignore = dirty
 [submodule "Carthage/Checkouts/Curry"]
 	path = Carthage/Checkouts/Curry
 	url = https://github.com/thoughtbot/Curry.git
